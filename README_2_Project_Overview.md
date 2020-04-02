@@ -1,6 +1,6 @@
 # DSC680
-Project 1:
-Avocados sales in the U.S.
+Project 1: 
+Avocados sales in the U.S. 
 
 This project studies the sales trends of avocados in the U.S. from 2015 through 2018. Particular attention was given to the differences in trends of conventional vs. organic avocados. This project was conducted in R and presented in PowerPoint.
 
